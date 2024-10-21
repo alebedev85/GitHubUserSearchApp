@@ -15,7 +15,7 @@ export const Search = ({ hasError, onSubmit }: SearchProps) => {
   const handleSumit = (event: React.FormEvent) => {
     event.preventDefault();
     const text = searchRef.current?.value || "";
-    if (text) {
+    if (text.trim()) {
       onSubmit(text);
       if (searchRef.current) {
         searchRef.current.value = "";
