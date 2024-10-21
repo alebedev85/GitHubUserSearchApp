@@ -4,7 +4,7 @@ export const defaultUser: LocalGithubUser = {
   "id": 106535457,
   "login": "alebedev85",
   "avatar": "https://avatars.githubusercontent.com/u/106535457?v=4",
-  "name": "Mikhail Nepomnyashchiy",
+  "name": "Andrey Lebedev",
   "company": null,
   "blog": "",
   "location": null,

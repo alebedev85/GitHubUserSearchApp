@@ -1,5 +1,6 @@
 {
   "name": "proj2-react",
+  "homepage": "https://alebedev85.github.io/GitHubUserSearchApp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -22,7 +23,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "component": "generate-react component"
+    "component": "generate-react component",
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -43,6 +46,7 @@
     ]
   },
   "devDependencies": {
-    "generate-react-cli": "^8.4.8"
+    "generate-react-cli": "^8.4.8",
+    "gh-pages": "^6.2.0"
   }
 }
