@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/GitHubUserSearchApp/static/css/main.6978df1f.css",
-    "main.js": "/GitHubUserSearchApp/static/js/main.0232f192.js",
+    "main.js": "/GitHubUserSearchApp/static/js/main.5b895c18.js",
     "static/media/icon-sun.svg": "/GitHubUserSearchApp/static/media/icon-sun.c3177fa453380a8147df081ec10c2789.svg",
     "static/media/icon-website.svg": "/GitHubUserSearchApp/static/media/icon-website.cf4904e442232792159e0e1bd2d500aa.svg",
     "static/media/icon-company.svg": "/GitHubUserSearchApp/static/media/icon-company.6331bb91a37d52462978487317f0c6e9.svg",
@@ -11,10 +11,10 @@
     "static/media/icon-search.svg": "/GitHubUserSearchApp/static/media/icon-search.0cc0c98424cc75d5e1dfbb9e3abb6785.svg",
     "static/media/icon-location.svg": "/GitHubUserSearchApp/static/media/icon-location.f6d18983ab4be8b3314d51c208fba4d4.svg",
     "main.6978df1f.css.map": "/GitHubUserSearchApp/static/css/main.6978df1f.css.map",
-    "main.0232f192.js.map": "/GitHubUserSearchApp/static/js/main.0232f192.js.map"
+    "main.5b895c18.js.map": "/GitHubUserSearchApp/static/js/main.5b895c18.js.map"
   },
   "entrypoints": [
     "static/css/main.6978df1f.css",
-    "static/js/main.0232f192.js"
+    "static/js/main.5b895c18.js"
   ]
 }
