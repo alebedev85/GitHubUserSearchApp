@@ -14,4 +14,5 @@ export const extractLocalUser = (user: GithubUser): LocalGithubUser => ({
   location: user.location,
   repos: user.public_repos,
   twitter: user.twitter_username,
+  url: user.html_url
 });

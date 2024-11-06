@@ -19,6 +19,7 @@ function App() {
     const res = await fetch(url);
     const user = (await res.json()) as GithubUser | GithubError;
     if (isGithubUser(user)) {
+      console.log(user)
       setUser(extractLocalUser(user));
     } else {
       setUser(null);

@@ -14,4 +14,5 @@ export const defaultUser: LocalGithubUser = {
   "followers": 4,
   "following": 12,
   "created": "2022-05-30T12:42:30Z",
+  "url": "https://github.com/alebedev85"
 }
